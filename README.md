@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # 🧅 Notetek Ghost Node (V6)
 ### *Ultra-Hardened Deep Web Deployment Engine*
 
